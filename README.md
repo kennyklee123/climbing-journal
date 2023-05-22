@@ -20,3 +20,4 @@ You will likely need to make a clerk account to get the .env secret for this to 
 You'll also need to make a free mySQL database with [Planetscale](https://planetscale.com/). Once you create the database, select 'connect' and choose 'Connect with Prisma'. Take the generated url and place it in your .env. Then run "npm install" and "npx prisma db push".
 
 Theres some pretty simple things in issues right now that you can work on. If you have any issues just let me know and feel free to ask questions. I'm typically around outside of CST business hours.
+
